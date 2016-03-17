@@ -6,4 +6,4 @@ from .models import Question, Choice
 
 
 # Create your views here.
-def index(request):
+# def index(request):
